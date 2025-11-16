@@ -1,0 +1,10 @@
+../Drivers/ds3231/ds3231.c:17:6:DS3231_Init	1
+../Drivers/ds3231/ds3231.c:22:6:DS3231_GetTime	3
+../Drivers/ds3231/ds3231.c:41:6:DS3231_SetTime	2
+../Drivers/ds3231/ds3231.c:50:6:DS3231_ReadTemperature	3
+../Drivers/ds3231/ds3231.c:65:6:DS3231_SetAlarm1	6
+../Drivers/ds3231/ds3231.c:113:6:DS3231_ClearAlarm1	1
+../Drivers/ds3231/ds3231.c:131:6:ReadRegister	3
+../Drivers/ds3231/ds3231.c:139:6:WriteRegister	2
+../Drivers/ds3231/ds3231.c:147:16:B2D	1
+../Drivers/ds3231/ds3231.c:152:16:D2B	1
