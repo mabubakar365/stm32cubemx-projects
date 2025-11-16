@@ -1,5 +1,3 @@
----
-
 # proj_OLED_SSD1306_F411
 
 ## Overview
@@ -66,5 +64,3 @@ proj_OLED_SSD1306_F411/
 ## Author
 
 Muhammad Abu Bakar
-
----
