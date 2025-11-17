@@ -1,0 +1,6 @@
+../Drivers/ds1307/ds1307.c:23:5:_write	1
+../Drivers/ds1307/ds1307.c:29:6:I2C_Scan	3
+../Drivers/ds1307/ds1307.c:44:6:ds1307_init	1
+../Drivers/ds1307/ds1307.c:60:6:ds1307_test	1
+../Drivers/ds1307/ds1307.c:104:16:B2D	1
+../Drivers/ds1307/ds1307.c:112:20:get_day_of_week	8
