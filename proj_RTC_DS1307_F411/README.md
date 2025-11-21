@@ -23,7 +23,6 @@
 * Read current time/date from DS1307
 * Write/update RTC time/date
 * UART printout for debugging
-* Simple `_RTC` structure for managing time fields
 
 ## Wiring
 
