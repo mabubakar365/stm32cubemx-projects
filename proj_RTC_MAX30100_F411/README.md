@@ -1,4 +1,4 @@
-# proj_RTC_MAX30100_F411
+# proj_MAX30100_F411
 
 ## Overview
 
