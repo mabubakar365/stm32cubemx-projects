@@ -1,0 +1,5 @@
+../Drivers/SenseAirS8/utils.c:11:6:printNibble	2
+../Drivers/SenseAirS8/utils.c:22:6:printByte	1
+../Drivers/SenseAirS8/utils.c:29:6:printHex	3
+../Drivers/SenseAirS8/utils.c:40:6:printIntToHex	4
+../Drivers/SenseAirS8/utils.c:52:6:printBinary	3
